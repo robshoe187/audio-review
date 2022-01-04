@@ -1,10 +1,11 @@
 import React from "react";
+import "./style.css"
 
 const Header = () => {
 
     return(
         <>
-            <h1>Audio Review</h1>
+            <h1 className="pt-4 text-center border-bottom">Audio Review</h1>
         </>
     );
 

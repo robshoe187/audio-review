@@ -1,9 +1,5 @@
-.card-width{
-    width: 18em;
-}
-
-.card-link {
+.nav-link {
     color: darkslategray;
     font-family: Arial Narrow, sans-serif;
-    font-size: medium;
+    font-size: 24px;
 }
